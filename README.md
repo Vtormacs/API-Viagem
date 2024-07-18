@@ -24,6 +24,7 @@ O projeto ViViagens é uma API que tem como objetivo ajudar os usuários a organ
 - Lombok
 - JPA
 - H2 Database
+- Postman
 
 ## Como Testar
 
